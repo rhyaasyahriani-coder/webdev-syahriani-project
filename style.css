@@ -1,0 +1,101 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fafafa;
+    color: #291c1c;
+    line-height: 1.6;
+}
+
+/* Button for interactivity */
+.button-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #c8a9ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 8px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #a77dff;
+}
+
+/* Dark Mode */
+.dark-mode {
+    background-color: #1f1b24;
+    color: #fff;
+}
+
+/* Existing styles from user */
+header {
+    background: rgb(77, 87, 163);
+    text-align: center;
+    padding: 30px 15px;
+}
+
+nav {
+    background-color: rgb(106, 84, 229);
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: antiquewhite;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+article {
+    background-color: rgb(51, 132, 199);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+figure img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+aside {
+    background: rgb(223, 217, 217);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(110, 163, 233);
+    text-align: center;
+    padding: 16px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.greeting-text {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #51328e;
+}
