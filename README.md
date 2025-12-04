@@ -17,7 +17,7 @@ Portofolio ini dibangun menggunakan standar web dasar (HTML, CSS, dan JavaScript
 | *Nama* | Syahriani |
 | *NIM* | 23690101042 |
 | *Umur* | 21 Tahun |
-| *Alamat* |Taccipi |
+| *Alamat* |Taccipi kec ulaweng |
 | *Pendidikan* | Mahasiswa Teknologi Pendidikan, Universitas Muhammadiyah Bone |
 
 ## 🛠️ Keahlian yang Ditampilkan
